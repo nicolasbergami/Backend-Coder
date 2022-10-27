@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "PC GAMER Ryzen 7",
+        "price": 75000,
+        "thumbnail": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/155-PC-Armada-Prod_600.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Xbox Series S ",
+        "price": 110000,
+        "thumbnail": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/A7Y2WPVTBNCQRJGV7YNL34MHLE.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Mouse Inalambrico",
+        "price": 5000,
+        "thumbnail": "https://medias.musimundo.com/medias/00315039-140388-140388-01-140388-01.jpg-size300?context=bWFzdGVyfGltYWdlc3wxNzg5M3xpbWFnZS9qcGVnfGgzNi9oM2YvMTAzNzk2NzIwNTk5MzQvMDAzMTUwMzktMTQwMzg4LTE0MDM4OF8wMS0xNDAzODhfMDEuanBnX3NpemUzMDB8YmYzYzQ3NzU5MWUxMDRjNjE2NDAyNjZkZTEyODlkZjkxZjUwNzQxMzk2NjZjNjQzNmQ5Yjg4MzVmN2UzYzlkOQ"
+    }
+]
