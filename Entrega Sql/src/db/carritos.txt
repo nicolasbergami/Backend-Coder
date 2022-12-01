@@ -19,10 +19,5 @@
     "timestamp": 1669160390270,
     "productos": [],
     "id": 2
-  },
-  {
-    "timestamp": 1669247550624,
-    "productos": [],
-    "id": 3
   }
 ]
